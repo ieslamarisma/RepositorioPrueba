@@ -16,7 +16,7 @@ public class primero {
 		
 		}
 		System.out.println("La suma de pares es ...  " + suma);
-		System.out.println(suma);
+		
 
 	}
 }
