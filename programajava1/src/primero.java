@@ -1,7 +1,6 @@
 // programa suma pares de 1 al 10
 // segundo
-
-
+//contribucion de clara 
 public class primero {
 
 	/**
