@@ -1,6 +1,8 @@
 // segundo commint
 public class segundo {
-
+	
+	//comentario de Fernando
+	
 	/**
 	 * @param args
 	 */
